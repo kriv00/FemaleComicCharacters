@@ -10,7 +10,6 @@ Each year there are a new characters introduction, I found there was a significa
 
 ### Introductions of new characters per year based on sex
 The introduction of new characters per year based on sex. I had to first count the amount of male and female characters introduced each year then sort the data by year. After doing so I plotted the data so I could clearly see the difference between newly introduced male and female characters overtime. I will be using this new insight to develop a time series analysis to predict the number of new female characters introduced future on a yearly basis, using the observed values from FiveThirtyEight.
-#### Marvel Comics
+
 <img src="images/Marvel Male vs. Female Character Introduction per Year.png">
- #### DC Comics
 <img src="images/DC Male vs. Female Character Introduction per Year.png">
