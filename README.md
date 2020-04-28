@@ -3,8 +3,7 @@
 This project was created to research the presence of female characters in Marvel and DC comics; through the use of data analysis.
 
 ## Instructions for Usage
-Load the libraries as follows: 
-
+Load the libraries as follows: pandas, matplotlib.pyplot, datetime, sklearn.tree (DecisionTreeClassifier), sklearn.model_selection (train_test_split), sklearn (metrics), sklearn (preprocessing), datetime, sklearn.model_selection (train_test_split)
 
 ## Discoveries from Anaylsis
 Set subsets to group by the sex of a given character. The analysis testing gave insight into the imbalance between male and female characters in comic books. 
